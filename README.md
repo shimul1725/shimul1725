@@ -1,6 +1,22 @@
-I'm current a student in Master's Degree in Data Science at Technical University Dortmund, Germany. I study Statistical Analysis, Data Analysis , Python, R, Microsoft Excel, Deep learning, and Machine Learning for Data Science. Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for the better framework. Strong Data Mining and Data Analysis professional with a Bachelor project on Computer Science and Engineering from Daffodil International University.
 
-<!---
-shimul1725/shimul1725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-At present, I am doing my master’s in Data Science at Technical University Dortmund.
+-In the process of sharpening my expertise in the field of Data Science and Data Analysis. 
+-I am searching for internships or working student or full-time jobs in Data Science or Machine Learning.
+
+𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝘁𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 that I have learned so far: 
+• Machine Learning Algorithm:
+ Logistic Regression, Random Forest, Natural Language Processing, Decision Trees, A/B Testing, Linear 
+ Regression, KNN, Time Series Analysis, K-means Clustering, Classification, Neural Networks
+• Statistical Methods:
+ Exploratory Data Analysis, Hypothesis Testing, Linear model, Significance Tests (Z- test, t-test)
+• Data Visualization: 
+ Tableau, Power BI, Matlab, Google Data Studio
+• Data Collection: CSV, JSON, Web- Scraping
+• Python Machine Learning Libraries: 
+ Numpy, Pandas, Matplotlib, Scikit Learn, Tensorflow, Keras
+• Programming:
+ Python, R, SQL, C
+• MS Office Package:
+ MS Excel, MS Word, MS PowerPoint
+
+Thanks for visiting me.
