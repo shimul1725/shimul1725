@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Master's student in **Econometrics** at **Technical University Dortmund**, bridging the gap between **Full-Stack Software Engineering** and **Data Analytics**.
+Master's student in **Econometrics** at **Technical University Dortmund**, bridging the gap between **Software Engineering** and **Data Analytics**.
 
 I specialize in:
 
