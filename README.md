@@ -4,12 +4,11 @@
 </p>
 
 <!-- Prominent Portfolio Button -->
-<p align="center">
-  <a href="https://my-profile-portfolio-ashen.vercel.app/#" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_VISIT_MY_SMART_PORTFOLIO-0052CC?style=for-the-badge&logo=vercel&logoColor=white" height="55" alt="Smart Portfolio Link"/>
-  </a>
-</p>
+### 🌐 Portfolio
 
+<h1 align="center">
+  🚀 <i>Visit My Smart Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
+</h1>
 ---
 
 ### 👨‍💻 About Me
