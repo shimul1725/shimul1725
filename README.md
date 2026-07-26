@@ -133,10 +133,11 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 ### 🎯 Currently Learning
 
-* Advanced Econometric Modeling & Time-Series Forecasting
+* Real-Time Event-Driven Systems & WebSockets (Socket.IO & Redis)
+* Production-Ready Full-Stack Deployment & CI/CD Pipelines
+* RESTful API & Backend Performance Optimization
+* Advanced Data Modeling & Time-Series Forecasting
 * Distributed Data Pipelines & Big Data Architectures
-* Cloud Deployment & Scalable Microservices (Docker & Cloud Infrastructure)
-* Production-Ready Machine Learning (MLOps & Model Deployment)
 
 ---
 
