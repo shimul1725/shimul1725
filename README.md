@@ -102,11 +102,18 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimul1725&theme=dracula" width="100%" alt="Developer Profile Summary" />
 </p>
 
-#### 📊 Activity Dashboard
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimul1725&theme=dracula" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-time?username=shimul1725&theme=dracula" width="49%" alt="Commits per time" />
-</p>
+### 📊 Activity Dashboard
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimul1725&theme=dracula" width="100%" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-time?username=shimul1725&theme=dracula" width="100%" alt="Commits per time" />
+    </td>
+  </tr>
+</table>
 
 #### 🧩 Languages & Technologies
 <p align="center">
