@@ -1,8 +1,11 @@
 <!-- Header Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=programming %20%7C%20Full-Stack%20Development%20%7C%20Data%20Analytics&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; background-color: #0d1117; color: #fff; padding: 0px 20px; border-radius: 10px;">
+  <img src="https://svg-banners.my.to/api?type=typewriter&text=Md%20Moniruzzaman&width=800&height=150&font=Fira%20Code&color=fff&bg=0d1117" width="100%" alt="Md Moniruzzaman Header Banner"/>
 </p>
-
+<p align="center" style="background-color: #161b22; color: #00d2ff; padding: 10px 20px; border-radius: 10px; margin-top: -15px;">
+  <b>M.Sc. Student in Econometrics</b> @ <span style="color: #0072ff;">Technical University Dortmund</span><br>
+  <i><span style="color: #4cd964;">Full-Stack Software Engineering</span> | <span style="color: #ffcc00;">Data Analytics & Visualization</span> | <span style="color: #ff3b30;">Statistical Modeling</span></i>
+</p>
 <!-- Portfolio Link (Large Text Style) -->
 ### 🌐 Portfolio
 
