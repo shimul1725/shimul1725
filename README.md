@@ -1,6 +1,6 @@
 <!-- Top Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Connecting%20the%20Dots&fontSize=42&fontColor=fff&animation=fadeIn&desc=BUILDING%20SCALABLE%20DATA-DRIVEN%20%26%20AI%20SOLUTIONS&descSize=16&descAlignY=70&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://svg-banners.my.to/api?type=typewriter&text=Connecting%20the%20Dots&width=800&height=180&font=Fira%20Code&color=00D2FF&bg=0d1117" width="100%" alt="Md Moniruzzaman Header Banner"/>
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 🌐 Portfolio
 
 <p align="center">
-  🚀 <i><b>Visit My Smart AI Portfolio</b></i> — <a href="https://linkedin.com/in/md-moniruzzaman1"><b>md-moniruzzaman1.profile</b></a>
+  🚀 <i><b>Visit My Smart AI Portfolio</b></i> — <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
 </p>
 
 ---
@@ -90,4 +90,4 @@ I enjoy connecting data science with real-world applications to create meaningfu
 
 <p align="center">
   <i>"There is always something to learn — every project teaches you something new."</i>
-</p>v
+</p>
