@@ -1,28 +1,29 @@
 <!-- Header Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Business%20Intelligence&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=Econometrics%20%7C%20Full-Stack%20Development%20%7C%20Data%20Analytics&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
 </p>
 
-<!-- Prominent Portfolio Button -->
+<!-- Portfolio Link (Large Text Style) -->
 ### 🌐 Portfolio
 
 <h1 align="center">
   🚀 <i>Visit My Smart Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
 </h1>
+
 ---
 
 ### 👨‍💻 About Me
 
-Master's student in **Data Science** at **TU Dortmund**, focusing on **Data Analytics, Machine Learning, and Predictive Modeling**.
+Master's student in **Econometrics** at **Technical University Dortmund**, bridging the gap between **Full-Stack Software Engineering** and **Data Analytics**.
 
 I specialize in:
 
-* **Data Preprocessing & ML Modeling** (Logistic Regression, Predictive Modeling, Time-Series Analysis)
-* **Interactive Dashboards & Business Intelligence** (Power BI)
-* **Statistical Computing & Data Pipelines** (Python, Pandas, NumPy, SQL)
-* **Software Engineering Fundamentals** (C++, JavaScript, Git Workflow)
+* **Full-Stack Web Development** (MERN Stack, RESTful APIs, Real-Time Web Applications, System Architecture)
+* **Data Analytics & Econometric Modeling** (Statistical Analysis, Time-Series Analysis, Predictive Modeling)
+* **Business Intelligence & Dashboards** (Interactive Power BI Reporting, Data Visualization)
+* **Data Engineering & Pipelines** (Python, Pandas, NumPy, SQL, Database Optimization)
 
-I enjoy connecting data science with real-world applications to create meaningful impact.
+I enjoy combining full-stack web engineering with data-driven analytical insights to build scalable and impactful applications.
 
 ---
 
@@ -118,8 +119,8 @@ I enjoy connecting data science with real-world applications to create meaningfu
 
 ### 🎯 Currently Learning
 
-* Advanced Machine Learning & Deep Learning Architectures
-* Distributed Data Pipelines & Cloud Infrastructure
+* Advanced Econometric & Predictive Methods
+* Cloud Infrastructure & Scalable Full-Stack System Design
 
 ---
 
