@@ -11,8 +11,6 @@
 </h2>
 
 
----
-
 ### 👨‍💻 About Me
 
 Master's student in **Data Science** at **TU Dortmund**, focusing on **Data Analytics, Machine Learning, and Predictive Modeling**.
