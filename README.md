@@ -131,10 +131,19 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 ---
 
+
 ### 🎯 Currently Learning
 
-* Advanced Econometric & Predictive Methods
-* Cloud Infrastructure & Scalable Full-Stack System Design
+* Advanced Kubernetes
+* Kafka & Event-Driven Systems
+* Machine Learning Engineering
+* Distributed Backend Architecture
+
+---
+
+### ✨ Quote
+
+> *"There is always something to learn — every project teaches you something new."*
 
 ---
 
