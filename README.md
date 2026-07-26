@@ -1,9 +1,11 @@
-
 <!-- Simple & Guaranteed Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=200&section=header&text=Md%20Moniruzzaman&fontSize=40&fontColor=fff&animation=fadeIn&desc=M.Sc.%20Econometrics%20%7C%20Full-Stack%20Dev%20%7C%20Data%20Analytics&descSize=16&descAlignY=72" width="100%" alt="Md Moniruzzaman Header Banner"/>
 </p>
+
 ---
+
+
 ### 🌐 Portfolio
 
 <h1 align="center">
