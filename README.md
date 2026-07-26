@@ -105,19 +105,6 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
   * Supported food service operations and daily inventory handling in a high-volume environment.
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimul1725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimul1725&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimul1725&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
 ### 💎 Premium GitHub Analytics
 
 #### 🧠 Developer Profile Summary
