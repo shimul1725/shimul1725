@@ -5,10 +5,12 @@
 </p>
 
 
-#### 🌐 Portfolio
+### 🌐 Portfolio
 
 <p align="center">
-  🚀 <i><b>Visit My Smart AI Portfolio</b></i> — <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
+  <a href="https://my-profile-portfolio-ashen.vercel.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Smart_AI_Portfolio-0072FF?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Portfolio Badge"/>
+  </a>
 </p>
 
 ---
