@@ -1,16 +1,17 @@
-
 <!-- Header Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Business%20Intelligence&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
 </p>
 
-##### 🌐 Portfolio
-
-<h2 align="center">
-  🚀 <i>Visit My Smart Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile</b></a>
-</h2>
+<!-- Prominent Portfolio Button -->
+<p align="center">
+  <a href="https://my-profile-portfolio-ashen.vercel.app/#" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_VISIT_MY_SMART_PORTFOLIO-0052CC?style=for-the-badge&logo=vercel&logoColor=white" height="55" alt="Smart Portfolio Link"/>
+  </a>
+</p>
 
 ---
+
 ### 👨‍💻 About Me
 
 Master's student in **Data Science** at **TU Dortmund**, focusing on **Data Analytics, Machine Learning, and Predictive Modeling**.
@@ -30,7 +31,7 @@ I enjoy connecting data science with real-world applications to create meaningfu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,postgres,mysql,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,vue,angular,html,css,express,nodejs,mongodb,bootstrap,git,docker,kubernetes,gcp,firebase,github&perline=14&theme=dark" />
   </a>
 </p>
 
@@ -38,24 +39,68 @@ I enjoy connecting data science with real-world applications to create meaningfu
 
 ### 🏢 Experience & Professional History
 
-#### Order Fulfillment & Logistics Specialist — Fiege Logistik (Neuss, Germany)
-**Tech / Focus:** Logistics Workflow, Process Tracking, Inventory Management
-* Managed full-time order processing, dispatch operations, and inventory flow accuracy.
-* Streamlined distribution metrics and optimized warehouse operational workflows.
-* Maintained high standards of operational accuracy in peak volume periods.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### Frontend Developer
+*Freelance / Independent | 2026 – Present*
+
+* Developed responsive, high-performance user interfaces using React.js, JavaScript (ES6+), and modern CSS.
+* Built interactive UI components with reusable React hooks and structured architecture.
+* Integrated RESTful APIs and asynchronous data flows using Axios / Fetch API.
+* Implemented real-time dynamic UI updates using Socket.IO-client.
+* Optimized frontend performance, asset loading, and mobile responsiveness.
+
+    </td>
+    <td width="50%" valign="top">
+
+#### Backend Developer
+*Freelance / Independent | 2026 – Present*
+
+* Designed and built scalable RESTful APIs using Node.js and Express.js with modular controller architecture.
+* Implemented secure authentication protocols utilizing JWT, bcrypt password hashing, and custom middleware.
+* Architected dynamic database schemas and complex queries in MongoDB Atlas with performance optimization.
+* Engineered real-time event-driven server architectures using Socket.IO.
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### Full-Stack & ML Integration Developer
+*Self-Employed Projects | 2024 – Present*
+
+* Integrated Python/Flask machine learning endpoints (Scikit-Learn) with Node.js and React web applications.
+* Designed full CRUD database workflows and optimized MongoDB schemas for prediction datasets.
+* Configured environment-based API pipelines between Flask, Express, and React.
+* Managed full project lifecycle from UI design to automated deployment pipelines using Git and Vercel.
+
+    </td>
+    <td width="50%" valign="top">
+
+#### Full-Stack Developer
+*Freelance / Self-Employed | 2023 – Present*
+
+* MERN Stack Development: Architected and developed responsive, end-to-end web applications.
+* Real-Time Communication: Built low-latency real-time chat and live notification systems.
+* API Design & ML Integration: Designed RESTful APIs in Node.js/Express and integrated external Python ML models.
+* Handled secure authentication (JWT/RBAC) and database management workflows.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-#### Shift Supervisor & Service Staff — American Golden Pizza (Mülheim, Germany)
-**Tech / Focus:** Operations Management, Team Coordination, Service Quality
-* Supervised daily shift operations, staff scheduling, and customer support standards.
-* Enhanced operational process management and reduced customer turnaround times.
+#### Logistics & Operations Experience
 
----
-
-#### Service Staff & Operations Assistant — Mosaic & Bazaar Restaurant (Düsseldorf Flughafen, Germany)
-**Tech / Focus:** Customer Relations, Inventory Handling, High-Volume Logistics
-* Supported food service operations, quality management, and daily stock replenishment in a high-traffic airport terminal environment.
+* **Order Fulfillment & Logistics Specialist** — Fiege Logistik (Neuss, Germany)
+  * Managed order processing, dispatch operations, and inventory flow accuracy.
+* **Shift Supervisor & Service Staff** — American Golden Pizza (Mülheim, Germany)
+  * Supervised daily shift operations, staff scheduling, and customer support standards.
+* **Service Staff & Operations Assistant** — Mosaic & Bazaar Restaurant (Düsseldorf Flughafen, Germany)
+  * Supported food service operations and daily inventory handling in a high-volume environment.
 
 ---
 
