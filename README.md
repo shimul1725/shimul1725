@@ -10,7 +10,7 @@
   🚀 <i>Visit My Smart Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile</b></a>
 </h2>
 
-...
+---
 ### 👨‍💻 About Me
 
 Master's student in **Data Science** at **TU Dortmund**, focusing on **Data Analytics, Machine Learning, and Predictive Modeling**.
