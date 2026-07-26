@@ -1,8 +1,8 @@
 <!-- Top Banner Image -->
+<!-- Header Animated Banner -->
 <p align="center">
-  <img src="https://svg-banners.my.to/api?type=typewriter&text=Connecting%20the%20Dots&width=800&height=180&font=Fira%20Code&color=00D2FF&bg=0d1117" width="100%" alt="Md Moniruzzaman Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Business%20Intelligence&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
 </p>
-
 ---
 
 ### 🌐 Portfolio
