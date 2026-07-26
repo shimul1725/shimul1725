@@ -41,7 +41,7 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 ### 🎓 Education
 
-* **M.Sc. Econometric ** — TU Dortmund
+* **M.Sc. Econometric** — TU Dortmund
 * **B.Sc. Computer Science & Engineering** — Daffodil International University 
 
 ---
