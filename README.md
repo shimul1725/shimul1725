@@ -4,7 +4,7 @@
 </p>
 
 ### 🌐 Portfolio
-🚀 **Visit My Smart AI Portfolio** — [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
+🚀 **Visit My Smart AI Portfolio** — [your-portfolio-link.vercel.app](https://my-profile-portfolio-ashen.vercel.app/#)
 
 ---
 
