@@ -118,7 +118,26 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 </p>
 
 ---
+### 💎 Premium GitHub Analytics
 
+#### 🧠 Developer Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimul1725&theme=dracula" width="100%" alt="Developer Profile Summary" />
+</p>
+
+#### 📊 Activity Dashboard
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimul1725&theme=dracula" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-time?username=shimul1725&theme=dracula" width="49%" alt="Commits per time" />
+</p>
+
+#### 🧩 Languages & Technologies
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimul1725&theme=dracula" width="49%" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimul1725&theme=dracula" width="49%" alt="Top Languages by Commit" />
+</p>
+
+---
 ### 🎯 Currently Learning
 
 * Advanced Econometric & Predictive Methods
