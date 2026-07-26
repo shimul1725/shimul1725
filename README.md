@@ -4,14 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Business%20Intelligence&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
 </p>
 
-
 ### 🌐 Portfolio
 
-<p align="center">
-  <a href="https://my-profile-portfolio-ashen.vercel.app/#" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Smart_AI_Portfolio-0072FF?style=for-the-badge&logo=vercel&logoColor=white" height="45" alt="Portfolio Badge"/>
-  </a>
-</p>
+<h2 align="center">
+  🚀 <i>Visit My Smart AI Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
+</h2>
+
 
 ---
 
