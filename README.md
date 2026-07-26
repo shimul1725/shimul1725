@@ -7,7 +7,7 @@
 ### 🌐 Portfolio
 
 <h2 align="center">
-  🚀 <i>Visit My Smart AI Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
+  🚀 <i>Visit My Smart AI Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile</b></a>
 </h2>
 
 
