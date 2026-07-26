@@ -114,6 +114,20 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimul1725&theme=dracula" width="49%" alt="Top Languages by Commit" />
 </p>
 
+#### 🔥 Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimul1725&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+</p>
+
+#### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shimul1725&theme=dracula&column=6" alt="GitHub Trophies" width="100%" />
+</p>
+
+#### ⚡ Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimul1725&theme=react-dark" width="100%" alt="Contribution Graph" />
+</p>
 ---
 ### 🎯 Currently Learning
 
