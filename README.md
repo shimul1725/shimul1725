@@ -95,16 +95,6 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 ---
 
-#### Logistics & Operations Experience
-
-* **Order Fulfillment & Logistics Specialist** — Fiege Logistik (Neuss, Germany)
-  * Managed order processing, dispatch operations, and inventory flow accuracy.
-* **Shift Supervisor & Service Staff** — American Golden Pizza (Mülheim, Germany)
-  * Supervised daily shift operations, staff scheduling, and customer support standards.
-* **Service Staff & Operations Assistant** — Mosaic & Bazaar Restaurant (Düsseldorf Flughafen, Germany)
-  * Supported food service operations and daily inventory handling in a high-volume environment.
-
----
 ### 💎 Premium GitHub Analytics
 
 #### 🧠 Developer Profile Summary
