@@ -131,19 +131,12 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 ---
 
-
 ### 🎯 Currently Learning
 
-* Advanced Kubernetes
-* Kafka & Event-Driven Systems
-* Machine Learning Engineering
-* Distributed Backend Architecture
-
----
-
-### ✨ Quote
-
-> *"There is always something to learn — every project teaches you something new."*
+* Advanced Econometric Modeling & Time-Series Forecasting
+* Distributed Data Pipelines & Big Data Architectures
+* Cloud Deployment & Scalable Microservices (Docker & Cloud Infrastructure)
+* Production-Ready Machine Learning (MLOps & Model Deployment)
 
 ---
 
@@ -154,6 +147,7 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 ---
 
+### ✨ Quote
 <p align="center">
   <i>"There is always something to learn — every project teaches you something new."</i>
 </p>
