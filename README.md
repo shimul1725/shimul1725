@@ -99,36 +99,38 @@ I enjoy combining full-stack web engineering with data-driven analytical insight
 
 #### 🧠 Developer Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimul1725&theme=dracula" width="100%" alt="Developer Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shimul1725&theme=tokyonight" width="100%" alt="Developer Profile Summary" />
 </p>
 
 #### 📊 Activity Dashboard
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimul1725&theme=dracula" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-time?username=shimul1725&theme=dracula" width="49%" alt="Commits per time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shimul1725&theme=tokyonight" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-time?username=shimul1725&theme=tokyonight" width="49%" alt="Commits per time" />
 </p>
 
 #### 🧩 Languages & Technologies
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimul1725&theme=dracula" width="49%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimul1725&theme=dracula" width="49%" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shimul1725&theme=tokyonight" width="49%" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shimul1725&theme=tokyonight" width="49%" alt="Top Languages by Commit" />
 </p>
 
 #### 🔥 Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimul1725&theme=dark&hide_border=true" alt="GitHub Streak" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shimul1725&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 #### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shimul1725&theme=dracula&column=6" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shimul1725&theme=tokyonight&column=6&margin-w=10" alt="GitHub Trophies" width="100%" />
 </p>
 
 #### ⚡ Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimul1725&theme=react-dark" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shimul1725&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
+
 ---
+
 ### 🎯 Currently Learning
 
 * Advanced Econometric & Predictive Methods
