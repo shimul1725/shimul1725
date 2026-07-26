@@ -1,13 +1,13 @@
 <!-- Header Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=Econometrics%20%7C%20Full-Stack%20Development%20%7C%20Data%20Analytics&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0052cc&height=220&section=header&text=Md%20Moniruzzaman&fontSize=42&fontColor=fff&animation=fadeIn&desc=programming %20%7C%20Full-Stack%20Development%20%7C%20Data%20Analytics&descSize=18&descAlignY=75" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- Portfolio Link (Large Text Style) -->
 ### 🌐 Portfolio
 
 <h1 align="center">
-  🚀 <i>Visit My Smart Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio-ashen.vercel.app</b></a>
+  🚀 <i>Visit My Smart Portfolio</i> ➔ <a href="https://my-profile-portfolio-ashen.vercel.app/#"><b>my-profile-portfolio</b></a>
 </h1>
 
 ---
