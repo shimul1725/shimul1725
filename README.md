@@ -28,34 +28,13 @@ I specialize in:
 I enjoy combining full-stack web engineering with data-driven analytical insights to build scalable and impactful applications.
 
 ---
+## 📽️ Projects Video 
 
-## 📽️ Featured Projects & Demos
+https://github.com/user-attachments/assets/2cc381be-0f91-4389-a36e-c6aee142a188
 
-Here are quick visual previews and demonstrations of my recent projects:
 
-### 🌐 Bondhu - Full-Stack Social Media Platform
-* **Description:** A real-time social networking web application featuring live chat, JWT authentication, and responsive UI.
-* **Tech Stack:** MERN Stack, Socket.IO, Tailwind CSS
-
-![Bondhu Demo](path/to/your/bondhu-demo.gif)
-*(Tip: Apni jodi GIF file use koren tobe uporer pixel link-e GIF-er path ba URL damben)*
 
 ---
-
-### 📊 FoodMart Analytics - Power BI Intelligence Dashboard
-* **Description:** Interactive retail sales dashboard analyzing customer demographics, product costs, and regional metrics.
-* **Tech Stack:** Power BI, DAX, Excel, Data Modeling
-
-![FoodMart Demo](path/to/your/foodmart-demo.gif)
-
----
-
-### 📈 E-Commerce Sales & Customer Analytics Dashboard
-* **Description:** End-to-end data analytics project combining Python exploratory data analysis (EDA) with Power BI visualization.
-* **Tech Stack:** Python (Pandas, Seaborn), Power BI, Excel
-
-![E-Commerce Demo](path/to/your/ecommerce-demo.gif)
-
 ### 🛠️ Technical Skills
 
 <p align="left">
